@@ -1,0 +1,26 @@
+{
+  "name": "hag",
+  "version": "1.0.0",
+  "description": "Something",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/l2ig/hag.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/l2ig/hag/issues"
+  },
+  "homepage": "https://github.com/l2ig/hag#readme",
+  "devDependencies": {
+    "@types/node": "^13.13.2"
+  },
+  "dependencies": {
+    "ws": "^7.2.3"
+  }
+}
